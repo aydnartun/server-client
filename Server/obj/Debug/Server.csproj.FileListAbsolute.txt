@@ -1,0 +1,15 @@
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\obj\Debug\Server.pdb
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\aydna\onedrive\belgeler\visual studio 2013\Projects\Server\Server\obj\Debug\Server.frm_server.resources
+C:\Users\aydna\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\aydna\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\aydna\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\aydna\Desktop\Github\server-client\Server\bin\Debug\Server.exe.config
+C:\Users\aydna\Desktop\Github\server-client\Server\obj\Debug\Server.exe
+C:\Users\aydna\Desktop\Github\server-client\Server\obj\Debug\Server.pdb

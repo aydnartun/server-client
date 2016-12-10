@@ -1,0 +1,9 @@
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\bin\Debug\Client.exe.config
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\bin\Debug\Client.exe
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\bin\Debug\Client.pdb
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\obj\Debug\Client.Properties.Resources.resources
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\obj\Debug\Client.exe
+c:\Users\aydna\OneDrive\Belgeler\visual studio 2013\Projects\Server\Client\obj\Debug\Client.pdb
+C:\Users\aydna\OneDrive\Belgeler\Visual Studio 2013\Projects\Server\Client\obj\Debug\Client.frm_client.resources
+C:\Users\aydna\OneDrive\Belgeler\Visual Studio 2013\Projects\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
